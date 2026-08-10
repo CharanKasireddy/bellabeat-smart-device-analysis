@@ -31,6 +31,13 @@ The analysis uses the [Fitbit Fitness Tracker Data](https://www.kaggle.com/datas
 - **Google BigQuery (SQL)** - aggregations, descriptive statistics, and trend analysis
 - **Tableau** - dashboard creation and visualization
 
+## Project Workspace Links
+
+> These links require the appropriate Tableau Cloud or Google Cloud sign-in and permission.
+
+- [Tableau dashboard workspace](https://us-east-1.online.tableau.com/#/signin?externalRedirect=%2Ft%2Fcharankasireddy2006-c12ba1a0db%2Fauthoring%2FBellabeatActivityandEngagementAnalysis%2FBellabeatActivityandEngagementDashboard%3F%3Aredirect%3Dauth&idpConfigurationId=&site=charankasireddy2006-c12ba1a0db)
+- [BigQuery analysis workspace](https://console.cloud.google.com/bigquery?project=big-studio-503820&ws=!1m29!1m5!4m3!1sbig-studio-503820!2sBellaBeatCaseStudy!3sActivity!23sTREE_NODE_MENU!1m5!4m3!1sbig-studio-503820!2sBellaBeatCaseStudy!3sCalories!23sTREE_NODE_MENU!1m5!4m3!1sbig-studio-503820!2sBellaBeatCaseStudy!3sIntensity!23sTREE_NODE_MENU!1m5!4m3!1sbig-studio-503820!2sBellaBeatCaseStudy!3sWeightLogged!23sTREE_NODE_MENU!1m4!1m3!1sbig-studio-503820!2sbquxjob_7534bbf3_19fe85621c2!3sUS)
+
 ## Data Preparation
 
 - Preserved original CSV files before cleaning
